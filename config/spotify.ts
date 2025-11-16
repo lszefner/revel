@@ -7,7 +7,7 @@
 
 export const SPOTIFY_CONFIG = {
   // Get this from Spotify Dashboard > Your App > Client ID
-  clientId: "YOUR_SPOTIFY_CLIENT_ID_HERE",
+  clientId: process.env.EXPO_PUBLIC_SPOTIFY_CLIENT_ID,
 
   // Redirect URI must match what you set in Spotify Dashboard
   // For Expo: revel://auth (matches your app scheme)
