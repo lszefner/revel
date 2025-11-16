@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "lib": ["deno.window"],
+    "strict": true
+  },
+  "imports": {
+    "supabase": "https://esm.sh/@supabase/supabase-js@2",
+    "spotify-web-api-node": "https://esm.sh/spotify-web-api-node@5.0.2"
+  }
+}
