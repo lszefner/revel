@@ -4,7 +4,7 @@ Revel is a React Native app for hosting party playlists powered by Spotify and A
 
 ## Contributors
 
-This project was created during **Paris Iterate Hack** (Nov 2025).
+This project was created during **Paris Iterate Hack**.
 
 ## Team
 - Liam Szefner (@lszefner)
