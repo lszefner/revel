@@ -11,12 +11,6 @@ This project was created during **Paris Iterate Hack** (Nov 2025).
 - Charlotte Le Bihan (@charlottelebihan18)
 - Chris William Karam (@cwk18)
 
-## Contributions
-- Ideation & architecture
-- Development & testing
-- Deployment & demo
-
-
 ## ⚡ Local Setup
 
 ```bash
